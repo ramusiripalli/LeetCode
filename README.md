@@ -70,4 +70,9 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
