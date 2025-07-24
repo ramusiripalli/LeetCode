@@ -76,5 +76,10 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
