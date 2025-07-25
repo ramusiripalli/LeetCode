@@ -1,27 +1,28 @@
+
 function Node(val){
     this.val = val;
     this.next = null;
 }
 
 var MyLinkedList = function() {
-  this.head = null;
-  this.size= 0;
+   this.head = null;
+   this.size = 0; 
 };
 
 /** 
  * @param {number} index
  * @return {number}
  */
-
 MyLinkedList.prototype.get = function(index) {
-   if(index<0 || index>= this.size) return -1;
-
-   let currentNode = this.head;
-   for(let i=0;i<index;i++)
-   {
-    currentNode = currentNode.next;
-   }
-   return currentNode.val;
+    if(index < 0 || index >= this.size) return -1;
+    else{
+        let curr = this.head;
+        for(let i=0;i<index;i++)
+        {
+            curr = curr.next;
+        }
+        return curr.val;
+    }
 };
 
 /** 
@@ -29,10 +30,10 @@ MyLinkedList.prototype.get = function(index) {
  * @return {void}
  */
 MyLinkedList.prototype.addAtHead = function(val) {
-    let newNode = new Node(val);
-    newNode.next = this.head;
-    this.head = newNode;
-    this.size++;
+   let newNode = new Node(val);
+   newNode.next = this.head;
+   this.head = newNode;
+   this.size++; 
 };
 
 /** 
@@ -41,15 +42,15 @@ MyLinkedList.prototype.addAtHead = function(val) {
  */
 MyLinkedList.prototype.addAtTail = function(val) {
     let newNode = new Node(val);
-    if(this.head === null){
+    if(this.head == null){
         this.head = newNode;
     }
     else{
-        let curr = this.head;
-        while(curr.next != null){
-            curr = curr.next;
-        }
-        curr.next = newNode;
+    let curr = this.head;
+    while(curr.next != null){
+        curr = curr.next;
+    }
+    curr.next = newNode;
     }
     this.size++;
 };
@@ -60,24 +61,24 @@ MyLinkedList.prototype.addAtTail = function(val) {
  * @return {void}
  */
 MyLinkedList.prototype.addAtIndex = function(index, val) {
-    let newNode = new Node(val);
-    if(index < 0 || index > this.size) return;
-    if(index == 0) {
+    if(index < 0 || index > this.size) return
+    if(index === 0){
         this.addAtHead(val);
         return;
     }
-    if(index === this.size){
+    else if(index === this.size){
         this.addAtTail(val);
         return;
     }
     else{
-        let curr = this.head;
-        for(let i=0;i<index-1;i++)
-        {
-            curr = curr.next;
-        }
-        newNode.next = curr.next;
-        curr.next = newNode;
+    let newNode = new Node(val);
+    let curr = this.head;
+    for(let i=0;i<index-1;i++)
+    {
+        curr = curr.next;
+    }
+    newNode.next = curr.next;
+    curr.next = newNode;
     }
     this.size++;
 };
@@ -87,17 +88,19 @@ MyLinkedList.prototype.addAtIndex = function(index, val) {
  * @return {void}
  */
 MyLinkedList.prototype.deleteAtIndex = function(index) {
-    if(index<0 || index >= this.size) return;
-    if(index === 0){
+    if(index < 0 || index >= this.size) return;
+    if(index === 0)
+    {
         this.head = this.head.next;
     }
     else{
         let curr = this.head;
-        for(let i=0;i<index-1;i++)
+        for(let i =0;i<index-1;i++)
         {
             curr = curr.next;
         }
         curr.next = curr.next.next;
+
     }
     this.size--;
 };
