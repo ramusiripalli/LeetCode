@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/ramusiripalli/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -100,5 +101,6 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/ramusiripalli/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
