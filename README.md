@@ -16,6 +16,7 @@
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,5 @@
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
