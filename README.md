@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -106,6 +107,11 @@
 | [0058-length-of-last-word](https://github.com/ramusiripalli/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
