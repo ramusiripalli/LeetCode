@@ -7,7 +7,10 @@ var isPalindrome = function(s) {
     let filteredString = "";
     let reversedString = "";
     for(let i=0;i<s.length;i++){
-        if(s[i].match(/[a-z0-9]/i)){
+        if((s[i].charCodeAt() >= 'a'.charCodeAt() && s[i].charCodeAt() <= 'z'.charCodeAt()) 
+        || 
+        (s[i].charCodeAt() >= '0'.charCodeAt() && s[i].charCodeAt() <= '9'.charCodeAt())
+         ){
             filteredString = filteredString + s[i];
             reversedString = s[i] + reversedString;
         }
