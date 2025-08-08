@@ -80,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ramusiripalli/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
