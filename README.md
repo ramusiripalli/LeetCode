@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/ramusiripalli/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,10 +111,12 @@
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
