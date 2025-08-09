@@ -3,19 +3,12 @@
  * @return {string}
  */
 var largestOddNumber = function(num) {
-    let n = num.length;
-    let str = '';
-    let store = null;
-    for(let i=n-1;i>=0;i--){
-       if(!isNaN(num[i])){
-        const num1 = parseInt(num[i]);
-         if(num1 % 2 === 1){
-            store = i;
-            break;
-         }
-       }
+ let n = num.length-1;
+ while(n>=0){
+    if(Number(num[n]) % 2 === 1){
+        return num.substring(0,n+1);
     }
-    str = (store === null) ? "": num.slice(0,store+1);
-    return str;
-    
+    --n;
+ }   
+ return "";
 };
