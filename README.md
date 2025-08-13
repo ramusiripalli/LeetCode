@@ -106,10 +106,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ramusiripalli/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0838-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ramusiripalli/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ramusiripalli/LeetCode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ramusiripalli/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
