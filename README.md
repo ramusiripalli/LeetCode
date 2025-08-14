@@ -112,6 +112,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ramusiripalli/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ramusiripalli/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramusiripalli/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ramusiripalli/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ramusiripalli/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ramusiripalli/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
