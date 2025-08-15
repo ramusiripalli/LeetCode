@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ramusiripalli/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ramusiripalli/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
@@ -87,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
