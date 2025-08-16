@@ -6,7 +6,8 @@ var evalRPN = function(tokens) {
  let stack = [];
  for(let i=0;i<tokens.length;i++){
 
-    if(["+","-","*","/"].includes(tokens[i])){
+    if(tokens[i] === '+' || tokens[i] === '-' || tokens[i] === '*' || tokens[i] === '/')
+    {
         let right = stack.pop();
         let left = stack.pop();
         let ans = eval(`${left} ${tokens[i]} ${right}`);
