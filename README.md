@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramusiripalli/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ramusiripalli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ramusiripalli/LeetCode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramusiripalli/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ramusiripalli/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ramusiripalli/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramusiripalli/LeetCode/tree/master/0232-implement-queue-using-stacks) |
