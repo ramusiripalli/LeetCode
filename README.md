@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramusiripalli/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ramusiripalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ramusiripalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
