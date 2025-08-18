@@ -3,6 +3,10 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    var a = Math.floor(x**0.5);
-    return a;
+    let i = 0;
+    for( i ; i*i <= x;i++){
+       
+    }
+    return Math.floor(i-1);
+
 };
