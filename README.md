@@ -30,6 +30,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ramusiripalli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ramusiripalli/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ramusiripalli/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
@@ -57,6 +58,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ramusiripalli/LeetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
