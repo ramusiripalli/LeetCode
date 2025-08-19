@@ -11,6 +11,11 @@ var nextGreaterElement = function(nums1, arr) {
     nextGreaterMap[arr[n-1]] = -1;
 
     for(let i=n-2;i>=0;i--){
+        let top = stack[stack.length-1];
+        if(arr[i] < top){
+            nextGreaterMap[arr[i]] = top;
+        }
+        else{
             while(stack.length){
                 if(stack[stack.length-1] < arr[i])
                 {
@@ -24,11 +29,16 @@ var nextGreaterElement = function(nums1, arr) {
             if(stack.length === 0){
                 nextGreaterMap[arr[i]] = -1;
             }
-        
+        }
         stack.push(arr[i]);
     }
 
-   return nums1.map(x => nextGreaterMap[x]);
+    let ans = [];
+    for(let i=0;i<nums1.length;i++){
+        ans.push(nextGreaterMap[nums1[i]]);
+    }
+    
+    return ans;
 
 
 };
