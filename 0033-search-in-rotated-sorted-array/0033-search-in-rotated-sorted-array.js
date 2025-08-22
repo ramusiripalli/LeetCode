@@ -7,12 +7,13 @@ var search = function(nums, target) {
     let left = 0;
     let right = nums.length-1;
     while(left <= right){
+
         let mid = left + Math.floor((right-left)/2);
-        if(target === nums[mid]) {
+        if (nums[mid] ===  target){
             return mid;
         }
         if(nums[left] <= nums[mid]){
-            if(target < nums[mid] && target >= nums[left]){
+            if(target< nums[mid] && target >= nums[left]){
                 right = mid - 1;
             }
             else{
@@ -20,11 +21,12 @@ var search = function(nums, target) {
             }
         }
         else{
-            if((target > nums[mid]) && (target <= nums[right])){
-                left = mid + 1;
+
+            if(target > nums[mid] && target <= nums[right]){
+                left = mid+1;
             }
             else{
-                right = mid-1;
+                right = mid - 1;
             }
         }
     }
