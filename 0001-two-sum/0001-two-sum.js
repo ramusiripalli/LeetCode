@@ -4,12 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    for(let i=0;i<nums.length-1;i++){
-        for(let j=i+1;j<nums.length;j++){
-            let sum = nums[i] + nums[j];
-            if(sum === target){
-                return [i,j];
-            }
+    let map = {};
+    for(let i=0;i<nums.length;i++){
+        map[nums[i]] = i;
+    }
+
+    for(let i=0;i<nums.length;i++){
+        let pairToFind = target - nums[i];
+        if(map[pairToFind] && map[pairToFind] != i){
+            return [i,map[pairToFind]];
         }
     }
 };
