@@ -3,29 +3,23 @@
  * @param {number} target
  * @return {number[]}
  */
-var searchRange = function(arr, target) {
-    let l = 0;
-    let r = arr.length - 1;
-    let ans = [-1, -1];
-
-    while (l < r) {
-        let m = l + Math.floor((r - l) / 2);
-        if (arr[m] < target) l = m + 1;
-        else r = m;
+var searchRange = function(nums, target) {
+    let res = [-1,-1];
+    if(nums.length === 0) {
+        return res;
+    }
+    for(let i=0;i<nums.length;i++){
+        if(nums[i] === target){
+            res[0] = i;
+            break;
+        }
+    }
+    for(let j=nums.length-1;j>=0;j--){
+        if(nums[j] === target){
+           res[1] = j;
+            break;
+        }
     }
 
-    if (arr[l] === target) ans[0] = l;
-
-    l = 0;
-    r = arr.length - 1;
-
-    while (l < r) {
-        let m = l + Math.ceil((r - l) / 2);
-        if (arr[m] > target) r = m - 1;
-        else l = m;
-    }
-
-    if (arr[l] === target) ans[1] = l;
-
-    return ans;
+    return res;
 };
