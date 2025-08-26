@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/ramusiripalli/LeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
@@ -71,6 +72,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramusiripalli/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ramusiripalli/LeetCode/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
