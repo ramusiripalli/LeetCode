@@ -70,6 +70,7 @@
 | [0069-sqrtx](https://github.com/ramusiripalli/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramusiripalli/LeetCode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/ramusiripalli/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ramusiripalli/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
