@@ -3,9 +3,14 @@
  * @return {number}
  */
 var singleNonDuplicate = function(nums) {
-    let xor = 0;
-    for(let i =0;i<nums.length;i++){
-        xor^=nums[i];
+    const freq = new Map();
+    for(const x of nums){
+        freq.set(x,(freq.get(x)||0) +1);
     }
-    return xor;
+
+    for(const [key,value] of freq.entries()){
+        if(value === 1) return key;
+    }
+
+    return -1;
 };
