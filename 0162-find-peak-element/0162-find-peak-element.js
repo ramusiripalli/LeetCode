@@ -9,7 +9,7 @@ var findPeakElement = function(nums) {
         let mid = left + Math.floor((right-left)/2);
 
         if(nums[mid] < nums[mid+1]){
-            left = mid + 1;
+            left = mid+1;
         }
         else{
             right = mid;
