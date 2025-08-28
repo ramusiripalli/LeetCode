@@ -8,9 +8,12 @@ var isSubsequence = function(s, t) {
     while( j < t.length){
         if(s[i] === t[j]){
             ++i;
-        }
-       
             ++j;
+        }
+        else if( s[i] !== t[j])
+        {
+            ++j;
+        }
     }
     return i === s.length;
 };
