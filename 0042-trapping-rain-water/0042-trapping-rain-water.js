@@ -22,7 +22,8 @@ var trap = function(height) {
 let sum = 0;
     for(let i=0;i<n;i++){
         let waterTrapped = (Math.min(maxLeft[i],maxRight[i]) - height[i]);
-        sum = sum + ((waterTrapped < 0) ? 0 : waterTrapped);
+        sum = sum + Math.max(waterTrapped,0);
+        
     }
 
     return sum;
