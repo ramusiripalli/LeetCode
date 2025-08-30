@@ -3,19 +3,15 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    const map = new Map();
+    const freqMap = {};
 
     for(let num of nums){
-        
-        if(map.has(num)){
-           map.set(num, map.get(num) + 1);
-        }
-        else{
-            map.set(num , 1);
-        }
+        freqMap[num] = (freqMap[num] || 0) + 1;
     }
 
-    for(let [key,value] of map){
-        if(value === 1) return key;
+    for(let i=0;i<nums.length; i++){
+        if(freqMap[nums[i]] === 1){
+            return nums[i];
+        }
     }
 };
