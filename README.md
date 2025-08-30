@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/ramusiripalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramusiripalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ramusiripalli/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramusiripalli/LeetCode/tree/master/0162-find-peak-element) |
@@ -50,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ramusiripalli/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
