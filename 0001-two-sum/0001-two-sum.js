@@ -16,4 +16,6 @@ var twoSum = function(nums, target) {
             return [i,map.get(pairToFind)];
         }
     }
+
+    return -1;
 };
