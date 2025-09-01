@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ramusiripalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramusiripalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ramusiripalli/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ramusiripalli/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ramusiripalli/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -127,6 +129,7 @@
 | [0027-remove-element](https://github.com/ramusiripalli/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramusiripalli/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ramusiripalli/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramusiripalli/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
