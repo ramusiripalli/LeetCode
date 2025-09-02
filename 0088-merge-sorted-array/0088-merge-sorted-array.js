@@ -6,33 +6,18 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function(nums1, m, nums2, n) {
-    let nums1Copy = nums1.slice(0,m);
-    let i=0,j=0,k=0;
+    let p1 = m-1;
+    let p2 = n-1;
+    for(let i = m+n-1; i>=0; i--){
 
-    while(i<m && j<n){
-        if(nums1Copy[i] <= nums2[j]){
-            nums1[k] = nums1Copy[i];
-            i++;
-        }else{
-            nums1[k] = nums2[j];
-            j++;
+        if(p2 < 0) break;
+        if(nums1[p1] > nums2[p2] && p1 >=0 ){
+            nums1[i] = nums1[p1];
+            p1--;
         }
-        k++;
+        else{
+            nums1[i] = nums2[p2];
+            p2--;
+        }
     }
-
-    while( i < m){
-        nums1[k] = nums1Copy[i];
-        i++;
-        k++;
-    }
-
-    while( j < n){
-        nums1[k] = nums2[j];
-        j++;
-        k++;
-
-        
-    }
-
- return nums1;
 };
