@@ -17,8 +17,8 @@ var preorderTraversal = function(root) {
     while(stack.length){
         let curr = stack.pop();
         ans.push(curr.val);
-        curr.right && stack.push(curr.right);
-        curr.left && stack.push(curr.left);
+        if(curr.right)  stack.push(curr.right);
+       if(curr.left) stack.push(curr.left);
     }
     return ans;
 };
