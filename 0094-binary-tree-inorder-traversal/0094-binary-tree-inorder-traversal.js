@@ -12,16 +12,12 @@
  */
 var inorderTraversal = function(root) {
     let ans = [];
-    let stack = [];
-    let curr = root;
-    while(curr || stack.length){
-        while(curr){
-            stack.push(curr);
-            curr = curr.left;
-        }
-        curr = stack.pop();
+    function traversal(curr){
+        if(curr === null ) return;
+        traversal(curr.left);
         ans.push(curr.val);
-        curr = curr.right;
+        traversal(curr.right);
     }
+    traversal(root);
     return ans;
 };
