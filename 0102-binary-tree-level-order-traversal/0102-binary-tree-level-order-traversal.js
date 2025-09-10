@@ -12,18 +12,13 @@
  */
 var levelOrder = function(root) {
     if(!root) return [];
-    let queue = [root];
     let ans = [];
-    while(queue.length>0){
-        let levelArray = [];
-        let levelSize = queue.length;
-        for(let i=0;i<levelSize;i++){
-            let curr = queue.shift();
-            if(curr.left) queue.push(curr.left);
-            if(curr.right) queue.push(curr.right);
-            levelArray.push(curr.val);
-        }
-        ans.push(levelArray);
+    let traversal = (curr,level) =>{
+        if(!ans[level]) ans[level] = [];
+        ans[level].push(curr.val);
+       if(curr.left) traversal(curr.left,level+1);
+        if(curr.right) traversal(curr.right,level+1);
     }
+    traversal(root,0);
     return ans;
 };
