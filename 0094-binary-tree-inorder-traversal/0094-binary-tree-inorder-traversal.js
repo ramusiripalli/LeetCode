@@ -10,10 +10,21 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var inorderTraversal = function(root,ans = []) {
-    if(!root) return ans;
-    inorderTraversal(root.left,ans);
-    ans.push(root.val);
-    inorderTraversal(root.right,ans);
+var inorderTraversal = function(root) {
+    let ans = [];
+    let stack = [];
+    let curr = root;
+    while(curr || stack.length)
+    {
+        while(curr){
+            stack.push(curr);
+            curr = curr.left
+        }
+
+        curr =stack.pop();
+        ans.push(curr.val);
+        curr = curr.right;
+    }
+
     return ans;
 };
