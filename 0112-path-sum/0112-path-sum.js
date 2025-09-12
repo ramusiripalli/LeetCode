@@ -12,18 +12,16 @@
  * @return {boolean}
  */
 var hasPathSum = function(root, targetSum) {
-    let ans = false;
-    function traverse(curr,currentSum){
-        if(!curr) return;
-        let newSum =  curr.val + currentSum;
-        if(!curr.left && !curr.right){
-            if(newSum === targetSum){
-                ans = ans || true;
-            }
-        } 
-        traverse(curr.left,newSum);
-        traverse(curr.right,newSum);
-    }
-    traverse(root,0);
-    return ans;
+
+        if(!root) return false;
+
+        if(!root.left && !root.right){
+            return root.val === targetSum;
+        }
+
+
+    let leftSubTreeHasPathSum = hasPathSum(root.left, targetSum - root.val);
+    let rightSubTreeHasPathSum = hasPathSum(root.right, targetSum - root.val);
+
+    return leftSubTreeHasPathSum || rightSubTreeHasPathSum;
 };
