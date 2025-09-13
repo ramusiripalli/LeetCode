@@ -30,6 +30,7 @@
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramusiripalli/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0507-perfect-number](https://github.com/ramusiripalli/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramusiripalli/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -293,4 +295,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramusiripalli/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ramusiripalli/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramusiripalli/LeetCode/tree/master/0226-invert-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramusiripalli/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
