@@ -11,13 +11,14 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    let ans = [];
-    function traversal(curr){
-        if(!curr) return;
-        ans.push(curr.val);
-        traversal(curr.left);
-        traversal(curr.right);
-    }
-    traversal(root);
-    return ans;
+   let ans = [];
+   if(!root) return ans;
+   let stack = [root];
+   while(stack.length > 0){
+    let curr = stack.pop();
+    ans.push(curr.val);
+    if(curr.right) stack.push(curr.right);
+    if(curr.left) stack.push(curr.left);
+   } 
+   return ans;
 };
