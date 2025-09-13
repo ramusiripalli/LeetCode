@@ -53,6 +53,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/ramusiripalli/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
