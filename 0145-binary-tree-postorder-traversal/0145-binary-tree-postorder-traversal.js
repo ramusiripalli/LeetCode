@@ -12,24 +12,12 @@
  */
 var postorderTraversal = function(root) {
     let ans = [];
-    let curr = root;
-    let stack = [];
-    let lastVisited = null;
-    while(stack.length || curr){
-        while(curr){
-            stack.push(curr);
-            curr = curr.left;
-        }
-
-        let peekNode = stack[stack.length-1];
-        if(peekNode.right && peekNode.right !== lastVisited){
-            curr = peekNode.right;
-        }
-        else{
-            ans.push(peekNode.val);
-            lastVisited = stack.pop();
-        }
-
+    function traversal(curr){
+        if(!curr) return;
+        traversal(curr.left);
+        traversal(curr.right);
+        ans.push(curr.val);
     }
+    traversal(root);
     return ans;
 };
