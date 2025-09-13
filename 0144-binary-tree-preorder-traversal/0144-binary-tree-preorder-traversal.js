@@ -11,7 +11,7 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root,ans = []) {
-    if(!root) return [];
+    if(!root) return ans;
     ans.push(root.val);
     preorderTraversal(root.left,ans);
     preorderTraversal(root.right,ans);
