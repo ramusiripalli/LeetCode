@@ -12,12 +12,19 @@
  */
 var postorderTraversal = function(root) {
     let ans = [];
-    function traversal(curr){
-        if(!curr) return;
-        traversal(curr.left);
-        traversal(curr.right);
-        ans.push(curr.val);
+    if(!root) return ans;
+    let stack1=[root];
+    let stack2 = [];
+    while(stack1.length > 0){
+        let curr = stack1.pop();
+        stack2.push(curr);
+        if(curr.left) stack1.push(curr.left);
+       if(curr.right) stack1.push(curr.right);
     }
-    traversal(root);
-    return ans;
+
+    while(stack2.length > 0){
+        ans.push(stack2.pop().val);
+    }
+
+    return ans;    
 };
