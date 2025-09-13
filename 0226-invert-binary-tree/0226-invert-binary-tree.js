@@ -11,13 +11,17 @@
  * @return {TreeNode}
  */
 var invertTree = function(root) {
-    if(!root) return root;
-    let temp = root.left;
-    root.left = root.right;
-    root.right = temp;
-
-    invertTree(root.left);
-    invertTree(root.right);
     
-    return root;
+    function traversal(curr){
+        if(!curr) return null;
+
+        let temp = curr.left;
+        curr.left = curr.right;
+        curr.right = temp;
+
+        traversal(curr.left);
+        traversal(curr.right);
+        return curr;
+    }
+    return traversal(root);
 };
