@@ -10,16 +10,11 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var preorderTraversal = function(root) {
+var preorderTraversal = function(root,ans = []) {
+    if(!root) return [];
+    ans.push(root.val);
+    preorderTraversal(root.left,ans);
+    preorderTraversal(root.right,ans);
 
-    let ans = [];
-    if(!root) return ans;
-    let stack = [root];
-    while(stack.length > 0){
-        let curr = stack.pop();
-        ans.push(curr.val);
-        if(curr.right) stack.push(curr.right);
-        if(curr.left) stack.push(curr.left);
-    }
     return ans;
 };
