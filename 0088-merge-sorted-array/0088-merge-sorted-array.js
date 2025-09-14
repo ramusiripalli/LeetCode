@@ -7,28 +7,31 @@
  */
 var merge = function(nums1, m, nums2, n) {
     let nums1Copy = nums1.slice(0,m);
-    let left = 0;
-    let right = 0;
+    let i=0;
+    let j = 0;
     let k = 0;
-    while(left < m && right < n){
-        if(nums1Copy[left] < nums2[right]){
-            nums1[k] = nums1Copy[left];
-            left++;
+    while( i< m && j < n){
+        if( nums1Copy[i] < nums2[j]){
+            nums1[k] = nums1Copy[i];
+            i++;
         }
         else{
-            nums1[k] = nums2[right];
-            right++;
+            nums1[k] = nums2[j];
+            j++;
+
         }
         k++;
+
+
     }
-    while(left < m){
-        nums1[k] = nums1Copy[left];
-        left++;
+    while(i<m){
+        nums1[k] = nums1Copy[i];
+        i++;
         k++;
     }
-    while(right < n){
-        nums1[k] = nums2[right];
-        right++;
+    while(j<n){
+        nums1[k] = nums2[j];
+        j++;
         k++;
     }
 
