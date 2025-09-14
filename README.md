@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramusiripalli/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramusiripalli/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ramusiripalli/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ramusiripalli/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/ramusiripalli/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ramusiripalli/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ramusiripalli/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ramusiripalli/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/ramusiripalli/LeetCode/tree/master/0507-perfect-number) |
@@ -145,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/ramusiripalli/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramusiripalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramusiripalli/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ramusiripalli/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ramusiripalli/LeetCode/tree/master/0344-reverse-string) |
