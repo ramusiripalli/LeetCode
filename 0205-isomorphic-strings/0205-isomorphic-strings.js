@@ -6,7 +6,7 @@
 var isIsomorphic = function(s, t) {
     let mapStoT = {};
     let mapTtoS = {};
-    for(let i=0;i<s.length;i++){
+    for(let i=0; i< s.length; i++){
         if(!mapStoT[s[i]] && !mapTtoS[t[i]]){
             mapStoT[s[i]] = t[i];
             mapTtoS[t[i]] = s[i];
@@ -15,8 +15,9 @@ var isIsomorphic = function(s, t) {
             return false;
         }
         else if(mapStoT[s[i]] !== t[i]){
-            return true;
+            return false;
         }
+        
     }
     return true;
 };
