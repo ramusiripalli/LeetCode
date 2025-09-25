@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/ramusiripalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ramusiripalli/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ramusiripalli/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramusiripalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ramusiripalli/LeetCode/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ramusiripalli/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ramusiripalli/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ramusiripalli/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
