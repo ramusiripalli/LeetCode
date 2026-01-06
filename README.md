@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/ramusiripalli/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/ramusiripalli/LeetCode/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ramusiripalli/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -209,6 +210,7 @@
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/ramusiripalli/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -218,6 +220,7 @@
 | [0011-container-with-most-water](https://github.com/ramusiripalli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ramusiripalli/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
