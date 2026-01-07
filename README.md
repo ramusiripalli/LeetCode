@@ -35,6 +35,7 @@
 | [1036-rotting-oranges](https://github.com/ramusiripalli/LeetCode/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramusiripalli/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ramusiripalli/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2942-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramusiripalli/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ramusiripalli/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3194-find-words-containing-character](https://github.com/ramusiripalli/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
