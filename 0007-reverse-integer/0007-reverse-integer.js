@@ -3,18 +3,18 @@
  * @return {number}
  */
 var reverse = function(x) {
-    let rev = 0;
+    let reverse = 0;
     let xCopy = x;
     x = Math.abs(x);
-    while(x > 0){
+    while(x>0){
         let lastDigit = x % 10;
-        rev = rev * 10 + lastDigit;
+        reverse = reverse * 10 + lastDigit;
         x = Math.floor(x/10);
     }
     let limit = Math.pow(2,31);
-    if(rev > limit-1  || rev < -limit ) {
+    if(reverse > limit-1 || reverse < -limit){
         return 0;
     }
 
-    return (xCopy > 0) ? rev : -rev;
+    return (xCopy > 0) ? reverse : -reverse;
 };
