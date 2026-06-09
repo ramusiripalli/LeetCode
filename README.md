@@ -29,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/ramusiripalli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
@@ -107,6 +108,7 @@
 | [0278-first-bad-version](https://github.com/ramusiripalli/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ramusiripalli/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
