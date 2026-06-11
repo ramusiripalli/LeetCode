@@ -4,18 +4,8 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    if(s.length !== t.length) return false;
-    let map = new Map();
-    for(let ch of s){
-        map.set(ch , (map.get(ch) || 0) + 1);
-    }
+    s = s.split('').sort().join('');
+    t = t.split('').sort().join('');
 
-    for(let ch of t){
-        if(!map.has(ch) || map.get(ch) <= 0){
-            return false;
-        }
-
-        map.set(ch, map.get(ch)-1);
-    }
-    return true;
+    return s === t;
 };
