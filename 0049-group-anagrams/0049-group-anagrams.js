@@ -5,12 +5,16 @@
 var groupAnagrams = function(strs) {
     const map = new Map();
 
-    for(let word of strs){
-        let key = word.split("").sort().join('');
-        if(!map.has(key)){
-            map.set(key,[]);
+    for(let str of strs){
+        let sortedStr = str.split('').sort().join('');
+
+        if(!map.has(sortedStr)){
+            map.set(sortedStr,[])
         }
-        map.get(key).push(word);
+
+        map.get(sortedStr).push(str);
     }
+
     return [...map.values()];
+    
 };
