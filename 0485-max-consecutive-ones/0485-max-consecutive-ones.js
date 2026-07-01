@@ -3,16 +3,15 @@
  * @return {number}
  */
 var findMaxConsecutiveOnes = function(nums) {
-    let maxOnes = 0;
+    let maxCount = 0;
     let count = 0;
     for(let num of nums){
-        if(num === 1){
-            count++;
-        }else{
-            count = 0;
-        }
-     maxOnes = Math.max(maxOnes,count);
+       if(num===1){
+        count = count+1;
+       }else{
+        count=0;
+       }
+        maxCount = Math.max(maxCount,count);
     }
-
-    return maxOnes;
+    return maxCount;
 };
