@@ -13,5 +13,5 @@ if(nums[i] + nums[j] === target){
         }
 
     }
-    return -1;
+    return [];
 };
