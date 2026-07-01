@@ -7,7 +7,7 @@ var moveZeroes = function(nums) {
     for(let i=0;i<nums.length;i++){
         if(nums[i] !== 0){
             nums[x] = nums[i];
-            x= x+1;
+            x = x+1;
         }
     }
 
