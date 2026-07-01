@@ -4,10 +4,11 @@
  */
 var missingNumber = function(nums) {
     let n = nums.length;
-    let sum = 0;
-   let totalSum =  (n * (n+1))/2;
-   for(let i=0;i<n;i++){
-    sum += nums[i];
-   }
-   return totalSum - sum;
+    let ActualTotal = Math.floor(n * (n+1)/2);
+    let total = 0;
+    for(let i=0;i<nums.length;i++){
+        total += nums[i];
+    }
+
+    return  ActualTotal - total;
 };
