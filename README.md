@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ramusiripalli/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ramusiripalli/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ramusiripalli/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ramusiripalli/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ramusiripalli/LeetCode/tree/master/0056-merge-intervals) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ramusiripalli/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ramusiripalli/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ramusiripalli/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ramusiripalli/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramusiripalli/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ramusiripalli/LeetCode/tree/master/0189-rotate-array) |
@@ -262,6 +264,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ramusiripalli/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramusiripalli/LeetCode/tree/master/0054-spiral-matrix) |
 | [1036-rotting-oranges](https://github.com/ramusiripalli/LeetCode/tree/master/1036-rotting-oranges) |
 ## Simulation
