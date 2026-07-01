@@ -3,13 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let map = new Map();
-
-    for(let ch of nums){
-        map.set(ch, (map.get(ch) || 0)+ 1);
+    let single=0;
+    for(let i=0;i<nums.length;i++){
+        single^=nums[i];
     }
-
-    for(let [key,value] of map){
-        if(value === 1) return key;
-    }
+    return single;
 };
