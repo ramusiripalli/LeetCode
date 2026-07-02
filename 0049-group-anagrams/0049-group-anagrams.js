@@ -3,18 +3,13 @@
  * @return {string[][]}
  */
 var groupAnagrams = function(strs) {
-    const map = new Map();
-
-    for(let str of strs){
-        let sortedStr = str.split('').sort().join('');
-
-        if(!map.has(sortedStr)){
-            map.set(sortedStr,[])
+    let map = new Map();
+    for(let word of strs){
+        let sortedWord = word.split('').sort().join('');
+        if(!map.has(sortedWord)){
+            map.set(sortedWord,[]);
         }
-
-        map.get(sortedStr).push(str);
+        map.get(sortedWord).push(word);
     }
-
-    return [...map.values()];
-    
+    return Array.from(map.values());
 };
