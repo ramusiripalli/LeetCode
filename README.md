@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/ramusiripalli/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ramusiripalli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@
 | [0205-isomorphic-strings](https://github.com/ramusiripalli/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ramusiripalli/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -111,6 +113,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramusiripalli/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ramusiripalli/LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/ramusiripalli/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0704-binary-search) |
@@ -131,6 +134,7 @@
 | [0088-merge-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ramusiripalli/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +176,7 @@
 | [0234-palindrome-linked-list](https://github.com/ramusiripalli/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ramusiripalli/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ramusiripalli/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ramusiripalli/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ramusiripalli/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ramusiripalli/LeetCode/tree/master/0680-valid-palindrome-ii) |
