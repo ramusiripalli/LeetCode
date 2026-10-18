@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/ramusiripalli/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramusiripalli/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ramusiripalli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ramusiripalli/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/ramusiripalli/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ramusiripalli/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ramusiripalli/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ramusiripalli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/ramusiripalli/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramusiripalli/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -356,5 +358,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ramusiripalli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ramusiripalli/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
