@@ -40,6 +40,7 @@
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ramusiripalli/LeetCode/tree/master/0948-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ramusiripalli/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/ramusiripalli/LeetCode/tree/master/1036-rotting-oranges) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ramusiripalli/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramusiripalli/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -124,6 +125,7 @@
 | [0704-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ramusiripalli/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramusiripalli/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ramusiripalli/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramusiripalli/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ramusiripalli/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ramusiripalli/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -365,5 +368,6 @@
 | [0303-range-sum-query-immutable](https://github.com/ramusiripalli/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ramusiripalli/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ramusiripalli/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ramusiripalli/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ramusiripalli/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
